@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.jolokia.jmc.kubernetes_1.0.0.202110061133.jar" id="org.jolokia.jmc.kubernetes" version="1.0.0.202110061133"/>
-   <feature url="features/org.jolokia.jmc.support_1.0.0.202110061133.jar" id="org.jolokia.jmc.support" version="1.0.0.202110061133"/>
+   <feature url="features/org.jolokia.jmc.kubernetes_1.0.0.202112012106.jar" id="org.jolokia.jmc.kubernetes" version="1.0.0.202112012106"/>
+   <feature url="features/org.jolokia.jmc.support_1.0.0.202112012106.jar" id="org.jolokia.jmc.support" version="1.0.0.202112012106"/>
 </site>
